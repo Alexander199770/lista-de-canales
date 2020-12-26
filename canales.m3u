@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno"1",PRUEBA NICK JR
-http://ipeteve.com/php/t121220/mc.php?c=125&f=.m3u8
+#EXTINF:-1 tvg-chno"1",PRUEBA sony
+https://miap.xyz/132/serverkey.m3u8
 #EXTINF:-1 tvg-chno"1",FOX
 https://espare.tk/live/1024.m3u8?token=FGBluyL6-gj3mIUBJ_f9VA&expires=1608965586
 #EXTINF:-1 tvg-chno"2",FOX PREMIUM ACTION
@@ -123,45 +123,19 @@ https://espare.tk/live/1003.m3u8?token=TEOqM_y_gGRYrRfzQjtQYw&expires=1608977274
 https://espare.tk/live/1056.m3u8?token=mbAHiTIEAUuiB_kshMPqGg&expires=1608977320
 #EXTINF:-1 tvg-chno"61",MOVISTAR LIGA
 https://espare.tk/live/laliga.m3u8?token=M_8vOPZ5wvqasU6Fsf_xDA&expires=1608977473
-#EXTINF:-1 tvg-chno"62",CARACOL FHD
-https://vkvsd71.mycdn.me/hls/1125368728306.m3u8/sig/PqRR6BSWIF8/expires/1609042311423/srcIp/138.186.250.94/clientType/13/srcAg/CHROME_ANDROID/mid/2458804956146/1125368
-
-728306_high/index.m3u8
-#EXTINF:-1 tvg-chno"63",CARACOL HD
-https://vkvsd71.mycdn.me:443/hls/1125368728306.m3u8/sig/PqRR6BSWIF8/expires/1609042311423/srcIp/138.186.250.94/clientType/13/srcAg/CHROME_ANDROID/mid/2458804956146/112
-
-5368728306_high/index.m3u8
-#EXTINF:-1 tvg-chno"64",TELEVISA
+#EXTINF:-1 tvg-chno"62",TELEVISA
 https://espare.tk/live/televisa_del_bajio_lat.m3u8?token=YY42BSedVSzA6E37mboADw&expires=1608977700
-#EXTINF:-1 tvg-chno"65",TELEVISA 5
+#EXTINF:-1 tvg-chno"63",TELEVISA 5
 https://espare.tk/live/canal_5_lat.m3u8?token=CWCtdkjIs-GUf1wrVMyk7w&expires=1608977734
-#EXTINF:-1 tvg-chno"66",AZTECA 1
+#EXTINF:-1 tvg-chno"64",AZTECA 1
 https://espare.tk/live/azteca1_lat.m3u8?token=EjEzGgPWtuAtvD4wvAHUkg&expires=1608977764
-#EXTINF:-1 tvg-chno"67",LAS ESTRELLAS
+#EXTINF:-1 tvg-chno"65",LAS ESTRELLAS
 https://espare.tk/live/canal_de_las_estrellas_lat.m3u8?token=HmqjkmLCOTy89vCNTb6BQA&expires=1608977798
-#EXTINF:-1 tvg-chno"68",TLNOVELAS
+#EXTINF:-1 tvg-chno"66",TLNOVELAS
 https://espare.tk/live/telenovelas_lat.m3u8?token=n49mqCAq_4E78dz7YyJAeQ&expires=1608977828
-#EXTINF:-1 tvg-chno"69",CRIMEN Y INVESTIGACION
+#EXTINF:-1 tvg-chno"67",CRIMEN Y INVESTIGACION
 https://espare.tk/live/ci.m3u8?token=pLqJ9m_WZRDWjllOdxNklA&expires=1608977863
-#EXTINF:-1 tvg-chno"70",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-chno"68",DISCOVERY CHANNEL
 https://espare.tk/live/1067.m3u8?token=7tDmE07fMu7Zh_1Hpb1rSA&expires=1608977898
-#EXTINF:-1 tvg-chno"71",TLC
+#EXTINF:-1 tvg-chno"69",TLC
 https://espare.tk/live/tlc_lat.m3u8?token=Z9ep2Hq-4PjsgIGFeR85-Q&expires=1608977932
-#EXTINF:-1 tvg-chno"72",DISCOVERY TURBO
-https://espare.tk/live/discovery_turbo_lat.m3u8?token=vlIEZdjXbZDxSXzPw1U3Pw&expires=1608977961
-#EXTINF:-1 tvg-chno"73",INVESTIGACION DISCOVERY
-https://espare.tk/live/inv_discovery_lat.m3u8?token=4Si_1aWGE_BarqqM3_S3tw&expires=1608978009
-#EXTINF:-1 tvg-chno"74",DISCOVERY H&H
-https://espare.tk/live/discovery_hyh_lat.m3u8?token=JUFMTm8DHxZL7oMkTv-uDA&expires=1608978051
-#EXTINF:-1 tvg-chno"75",DISCOVERY WORLD
-https://espare.tk/live/discovery_world_lat.m3u8?token=p86mqiy6FDdgEmFAeWUB5A&expires=1608978088
-#EXTINF:-1 tvg-chno"76",NATGEO
-https://espare.tk/live/nat_geographic_lat.m3u8?token=X8D4tWtXm3y-WxF4sZ7WVA&expires=1608978196
-#EXTINF:-1 tvg-chno"77",NATGEO WILD
-https://espare.tk/live/nat_geo_wild_lat.m3u8?token=fF2QiSGQ44bdMMYKhftg5w&expires=1608978268
-#EXTINF:-1 tvg-chno"78",HISTORY
-https://espare.tk/live/historia_lat.m3u8?token=DagK3nEfrNaZnS37ZS_MPA&expires=1608978313
-#EXTINF:-1 tvg-chno"79",HISTORY 2
-https://espare.tk/live/historia_2_lat.m3u8?token=MEfU9sTP4TqKKeAyn7tMqw&expires=1608978343
-#EXTINF:-1 tvg-chno"80",A&E
-https://espare.tk/live/aye_lat.m3u8?token=6M_jQxGphCvC1_5r7nD5AA&expires=1608978381
